@@ -9,5 +9,5 @@ A Django-based blog website with advanced features, including:
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/myblog.git
+   git clone https://github.com/Unique741/myblog
    cd myblog
